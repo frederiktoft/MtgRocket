@@ -6,7 +6,13 @@ With this integration, you can retrieve a card image from the game Magic The Gat
 
 ## How to use
 When installed, you can simply write `!card` followed by a card name, for example: `!card ulamog`. The plug-in will search for cards with that name, and display the first card from the search results.
-You can also search for exact card names, by putting the card name in quotation marks, for example: `!card "Opt"` will return the card "Opt". 
+<br />
+![example1]
+<br />
+You can also search for exact card names, by putting the card name in quotation marks, for example: `!card "Opt"` will return the card "Opt".
+<br />
+![example2]
+<br />
 
 ## Installation
 
@@ -62,3 +68,7 @@ There are room for several improvements, which I might get around doing eventual
 ## Legal stuff
 This is licensed under the MIT License. <br />
 This plug-in is NOT endorsed, supported by, or affiliated with <a href="https://company.wizards.com/">Wizards Of The Coast</a>.
+
+<!-- images -->
+[example1]: Example1.JPG "Example 1"
+[example2]: Example2.JPG "Example 2"
