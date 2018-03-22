@@ -36,19 +36,19 @@ Enter the desired name for the integration (e.g. "MtgRocket").
 This is self-explaining. Insert the desired channel which should be listened.
 <br /><br />
 
-##### Trigger Word
+##### Trigger Words
 Set the trigger word on which the command should be fired. Write `!card` here. You can technically write anything here, but then the script won't work.
 <br /><br />
 
 ##### URLs
-In this field you *must* enter `https://api.magicthegathering.io/v1/`. Very important!
+In this field you *must* instert `https://api.magicthegathering.io/v1/`. Very important!
 <br /><br />
 
-##### Script active
-This value mus be true
+##### Script Enabled
+This value must be true.
 <br /><br />
 
-##### MtgRocket Script
+##### Script
 Now insert the complete contents of the file `MtgRocket.js` into this field.
 <br /><br />
 
