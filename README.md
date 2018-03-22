@@ -13,6 +13,7 @@ You can also search for exact card names, by putting the card name in quotation 
 <br />
 ![example2]
 <br />
+Tap or click on the images to view a larger version.
 
 ## Installation
 
