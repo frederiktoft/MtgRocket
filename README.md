@@ -61,7 +61,7 @@ There are other options you can modify to enhance this plug-in, like the sender 
 If you feel brave you can modify the source code to better suit your needs.
 
 ## Remarks
-This plug-in makes use of the excellent unofficial <a href="https://magicthegathering.io/">magicthegathering.io</a> API.
+This plug-in makes use of the excellent unofficial <a href="https://magicthegathering.io/">magicthegathering.io</a> API. Source code is based on the <a href="https://github.com/FinndropStudios/GifRocket">GifRocket</a> plug-in.
 
 ## Development
 There are room for several improvements, which I might get around doing eventually, like handling errors of the API is unreachable and so on. If you have suggestions or additions to the source code, feel free to contact me.
