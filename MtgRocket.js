@@ -22,7 +22,7 @@ class Script {
 
     process_outgoing_response({ request, response }) {
         let img = '';
-		const errormsg = 'nice try, but I haven\'t found anything :cold_sweat:';
+		const errormsg = 'Sorry, but I couldn\'t find a card by that name :sweat:';
         if(response.content.cards.length !== 0) {
             if(Array.isArray(response.content.cards)) {				
 				for (var i = 0, len = response.content.cards.length; i < len; i++) {
