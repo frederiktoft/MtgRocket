@@ -1,8 +1,8 @@
 # MtgRocket
-Magic The Gathering integration for <a href="https://rocket.chat/">Rocket.Chat</a>.
+Magic The Gathering Gatherer integration for <a href="https://rocket.chat/">Rocket.Chat</a>.
 
 ## Overview 
-With this integration, you can retrieve a card image from the game Magic The Gathering, with a simple command.
+With this integration, you can retrieve a card image from the trading card game Magic The Gathering, with a simple command.
 
 ## How to use
 When installed, you can simply write `!card` followed by a card name, for example: `!card ulamog`. The plug-in will search for cards with that name, and display the first card from the search results.
@@ -13,7 +13,7 @@ You can also search for exact card names, by putting the card name in quotation 
 <br />
 ![example2]
 <br />
-Tap or click on the images to view a larger version.
+Then tap or click on the images to view a larger version. Easy!
 
 ## Installation
 
