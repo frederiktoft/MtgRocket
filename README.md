@@ -49,7 +49,7 @@ This value mus be true
 <br /><br />
 
 ##### MtgRocket Script
-Now insert the complete code of the file `MtgRocket.js` into this field.
+Now insert the complete contents of the file `MtgRocket.js` into this field.
 <br /><br />
 
 #### Save changes
