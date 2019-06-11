@@ -41,7 +41,7 @@ Set the trigger word on which the command should be fired. Write `!card` here. Y
 <br /><br />
 
 ##### URLs
-In this field you *must* instert `https://api.magicthegathering.io/v1/`. Very important!
+In this field you *must* insert `https://api.magicthegathering.io/v1/`. Very important!
 <br /><br />
 
 ##### Script Enabled
