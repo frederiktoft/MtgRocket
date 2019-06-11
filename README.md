@@ -17,7 +17,7 @@ Then tap or click on the images to view a larger version. Easy!
 
 ## Installation
 
-#### Configure outgoing Webhook in Rocket.Chat
+##### Configure outgoing Webhook in Rocket.Chat
 In your Rocket.Chat instance go to administration panel and click on "Integrations". Click on "NEW INTEGRATION".<br />
 Next, choose "Outgoing WebHook".
 <br />
@@ -49,12 +49,12 @@ This value must be true.
 <br /><br />
 
 ##### Script
-Now insert the complete contents of the file `MtgRocket.js` into this field.
+Now insert the complete contents of the file `MtgRocket.js` from the `src/` folder in this repo, into this field.
 <br /><br />
 
 #### Save changes
 Now click on "SAVE CHANGES", simple as that.
-<br /><br /><br />
+<br /><br />
 
 ## Extras
 There are other options you can modify to enhance this plug-in, like the sender if you have other bots active. This guide is just for a basic vanilla type setup. <br />
@@ -65,11 +65,13 @@ This plug-in makes use of the excellent unofficial <a href="https://magicthegath
 
 ## Development
 There are room for several improvements, which I might get around doing eventually, like handling errors of the API is unreachable and so on. If you have suggestions or additions to the source code, feel free to contact me.
+<br />
+Since I developed this plugin, RocketChat has been updated with a package management system which would make installation much easier. Due to (when I first looked into it) poor documentation about this feature, and lack of time/interest, I will not likely update this plugin to use this functionality.
 
 ## Legal stuff
 This is licensed under the MIT License. <br />
 This plug-in is NOT endorsed, supported by, or affiliated with <a href="https://company.wizards.com/">Wizards Of The Coast</a>.
 
 <!-- images -->
-[example1]: Example1.JPG "Example 1"
-[example2]: Example2.JPG "Example 2"
+[example1]: img/Example1.JPG "Example 1"
+[example2]: img/Example2.JPG "Example 2"
